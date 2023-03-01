@@ -1,0 +1,28 @@
+body{
+    font-style: Sans-serif, serif ;
+    background-color: bisque;
+}
+.head, img{
+    height: 50%;
+    max-width: 10%;
+    border-radius: 80%;
+    padding: 2px;
+} 
+#site {
+    text-align: center; 
+}
+
+#Profile-img {
+ display: flex ;
+ text-align: center;
+}
+
+.head, h1, p{
+    padding: 0%;
+    text-align: center;
+}
+
+.head, p{
+    font-style: serif;
+    font-size: 15px;
+}
